@@ -1,0 +1,616 @@
+[{
+  "_id": {
+    "$oid": "663b664d338f2edda5cb3f00"
+  },
+  "productName": "Steam Deck",
+  "price": {
+    "mrp": 60000,
+    "cost": 53000,
+    "discountPercent": 20
+  },
+  "subcategory": "Sub console",
+  "productImage": "https://mx2games.com/wp-content/uploads/2024/03/Untitled-153-Photoroom.png-Photoroom.png",
+  "category": "Console",
+  "description": "Ever since the Steam Deck first released, Valve fans have been wondering whether the console would get an OLED upgrade similar to what the Nintendo Switch received. Valve has previously been hush-hush about the possibility, but more and more evidence has been popping up for an OLED model over the past few months, making it seem very likely. Now, Valve has randomly decided to pull back the curtain and reveal that an OLED Steam Deck is not only happening, it’s happening really soon.",
+  "tagline": "offer",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T11:47:25.552Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T11:47:25.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b710aea19a2c29d4e5f14"
+  },
+  "productName": "Sony PlayStation 5 Slim Console PS5",
+  "price": {
+    "mrp": 60000,
+    "cost": 52999,
+    "discountPercent": 12
+  },
+  "subcategory": "Console",
+  "productImage": "https://mx2games.com/wp-content/uploads/2024/04/Untitled-36.jpg",
+  "category": "Console",
+  "description": "With PS5, players get powerful gaming technology packed inside a sleek and compact console design. 1TB of Storage: Keep your favorite games ready and waiting for you to jump in and play with 1TB of SSD storage built in. Ultra-High Speed SSD: Maximize your play sessions with near instant load times for installed PS5 games.\nThe custom integration of the PS5 console’s systems lets creators pull data from the SSD so quickly that they can design games in ways never before possible. Ray Tracing: Immerse yourself in worlds with a new level of realism as rays of light are individually simulated, creating true-to-life shadows and reflections in supported PS5 games.\nEnjoy smooth and fluid high frame rate gameplay at up to 120fps for compatible games, with support for 120Hz output on 4K displays. HDR Technology: With an HDR TV, supported PS5 games display an unbelievably vibrant and lifelike range of colors.\n",
+  "tagline": "offer",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T12:33:14.530Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T12:33:14.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b7190ea19a2c29d4e5f20"
+  },
+  "productName": "Tintin Reporter Cigars Of The Pharaoh PS5",
+  "price": {
+    "mrp": 30000,
+    "cost": 27000,
+    "discountPercent": 30
+  },
+  "subcategory": "RPG",
+  "productImage": "https://mx2games.com/wp-content/uploads/2024/04/Untitled-2172-768x768.png",
+  "category": "Games",
+  "description": "Tintin Reporter Cigars Of The Pharaoh Collector Edition PS5.\nThe Tintin Reporter Cigars of the Pharaoh Collector Edition includes\nthe base game, an official Steelbook, a 160 page artbook, a notebook,\nan original figurine and 3 postcards.",
+  "tagline": "The Tintin Reporter Cigars",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T12:35:28.031Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T12:35:28.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b71eaea19a2c29d4e5f22"
+  },
+  "productName": "Sand Land PS5 (Imported)",
+  "price": {
+    "mrp": 5000,
+    "cost": 2500,
+    "discountPercent": 50
+  },
+  "subcategory": "RPG",
+  "productImage": "https://mx2games.com/wp-content/uploads/2024/04/Untitled-207-768x768.jpg",
+  "category": "Games",
+  "description": "In this action RPG, you become the main character as Beelzebub\nLead your company of heroic misfits and explore the legendary world of SAND LAND\nUse your tact to develop tanks and other vehicles for adventures utilizing a wide array of parts\nBuild up your base of operations into a thriving city with the help of the people you meet in the desert",
+  "tagline": "offer",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T12:36:58.751Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T12:36:58.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b7251ea19a2c29d4e5f2c"
+  },
+  "productName": "Dragons Dogma 2 Steelbook Edition PS5",
+  "price": {
+    "mrp": 10000,
+    "cost": 7499,
+    "discountPercent": 30
+  },
+  "subcategory": "Action",
+  "productImage": "https://mx2games.com/wp-content/uploads/2024/03/Untitled-362-768x768.jpg",
+  "category": "Games",
+  "description": "Dragon’s Dogma 2 begins in a subterranean jail, where the Dragon’s voice echoes in the fog of lost memories. With their heart taken by the Dragon, the Arisen is set on a path to slay that symbol of the world’s destruction as it soars through the sky on massive wings, breathing flames that scorch everything in its path. With the Arisen’s future veiled in mystery, what challenges and triumphs await on the path to their destiny?\nUp to three mysterious otherworldly beings, known as Pawns, accompany the Arisen throughout their journey. Pawns create the feeling of a cooperative gameplay experience by offering unique characteristics, skills, and knowledge gained from their experiences with other Arisen.",
+  "tagline": "knowledge gained from their experiences with other Arisen.",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T12:38:41.972Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T12:38:41.972Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b728fea19a2c29d4e5f2e"
+  },
+  "productName": "Final Fantasy VII Rebirth Deluxe Edition SteelBook Only",
+  "price": {
+    "mrp": 3999,
+    "cost": 3999,
+    "discountPercent": 0
+  },
+  "subcategory": "Action",
+  "productImage": "https://mx2games.com/wp-content/uploads/2024/03/Untitled-287-768x768.jpg",
+  "category": "Games",
+  "description": "Final Fantasy VII Rebirth Deluxe Edition SteelBook Only",
+  "tagline": "Final Fantasy VII Rebirth Deluxe Edition SteelBook Only",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T12:39:43.286Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T12:39:43.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b7303ea19a2c29d4e5f30"
+  },
+  "productName": "Elden Ring Shadow Of The Erdtree Edition Ps5",
+  "price": {
+    "mrp": 5000,
+    "cost": 4000,
+    "discountPercent": 20
+  },
+  "subcategory": "RPG Freedom",
+  "productImage": "https://mx2games.com/wp-content/uploads/2024/03/Untitled-53-768x768.jpg",
+  "category": "Games",
+  "description": "ELDEN RING Shadow of the Erdtree takes players beyond the Lands Between to explore the Land of Shadow, a completely new world from ELDEN RING.\nShadow of the Erdtree adds new weapons, equipment, weapon skills and magic not found in the base game ELDEN RING, along with new enemies, boss encounters and plotlines to further increase players’ RPG freedom.",
+  "tagline": "Boss encounters and plotlines to further increase players’ RPG freedom.",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T12:41:39.964Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T12:41:39.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b734aea19a2c29d4e5f32"
+  },
+  "productName": "Alone in the Dark PS 5",
+  "price": {
+    "mrp": 5000,
+    "cost": 4500,
+    "discountPercent": 10
+  },
+  "subcategory": "Horror",
+  "productImage": "https://mx2games.com/wp-content/uploads/2024/03/Untitled-245-768x768.jpg",
+  "category": "Games",
+  "description": "Explore Derceto Manor in this reimagination of Alone in the Dark, a love letter to the 90’s cult classic horror game\nReturn to the roots of psychological horror and experience an atmospheric journey worthy of the game that started the genre\nDive into a world full of sounds that make your skin crawl with a haunting, yet mesmerizing doom jazz soundtrack\nEnjoy the thrill of desperate survival in a world where reality starts to crumble, evil lurks in every shadow and ammunition is scarce.",
+  "tagline": "evil lurks in every shadow and ammunition is scarce.",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T12:42:50.570Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T12:42:50.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bce9cb43e2aa318750dd5"
+  },
+  "productName": "Unicorn Overlord Nintendo Switch USA",
+  "price": {
+    "mrp": 7000,
+    "cost": 6199,
+    "discountPercent": 12
+  },
+  "subcategory": "Nintendo",
+  "productImage": "https://mx2games.com/wp-content/uploads/2024/02/Fate-Samurai-Remnant-Ps5-26-768x768.jpg",
+  "category": "Games",
+  "description": "Traverse a vibrant world, assemble units and direct them into exquisitely animated battles.\nPerform heroic deeds and grow renown throughout the five nations.\nCultivate a grand army with over 60 unique characters, from humans and elves to massive beasts and heavenly angels.",
+  "tagline": "offer",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T19:12:28.175Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T19:12:28.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bcf1ab43e2aa318750dd7"
+  },
+  "productName": "The Witcher 3 Wild Hunt Complete Edition Ps5",
+  "price": {
+    "mrp": 3000,
+    "cost": 1800,
+    "discountPercent": 22
+  },
+  "subcategory": "Action",
+  "productImage": "https://m.media-amazon.com/images/I/81gxqi-mYaL.jpg",
+  "category": "Games",
+  "description": "PLAY AS A HIGHLY TRAINED MONSTER SLAYER FOR HIRE: Trained from early childhood and mutated to gain superhuman skills, strength, and reflexes, witchers are a counterbalance to the monster-infested world in which they live.\nGruesomely destroy foes as a professional monster hunter armed with a range of upgradeable weapons, mutating potions, and combat magic.\nHunt down a wide variety of exotic monsters, from savage beasts prowling mountain passes to cunning supernatural predators lurking in the shadowy back alleys of densely populated cities. Invest your rewards to upgrade your weaponry and buy custom armor, or spend them on horse races, card games, fist fighting, and other pleasures life brings.\nEXPLORE A MORALLY AMBIGUOUS FANTASY OPEN WORLD: Built for endless adventure, the massive open world of The Witcher sets new standards in terms of size, depth, and complexity. Traverse a fantastical open world: explore forgotten ruins, caves, and shipwrecks, trade with merchants and dwarven smiths in cities, and hunt across the open plains, mountains, and seas. Deal with treasonous generals, devious witches, and corrupt royalty to provide dark and dangerous services. Make choices that go beyond good & evil, and face their far-reaching consequences.\nTRACK DOWN THE CHILD OF PROPHECY: Take on the most important contract of your life: to track down the child of prophecy, the key to saving or destroying this world. In times of war, chase down the child of prophecy, a living weapon foretold by ancient elven legends. Struggle against ferocious rulers, spirits of the wilds, and even a threat from beyond the veil – all hell-bent on controlling this world. Define your destiny in a world that may not be worth saving.",
+  "tagline": "offer",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T19:14:34.985Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T19:14:34.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bd06eb43e2aa318750e45"
+  },
+  "productName": "Ps5 DualSense Wireless Controller Final Fantasy XVI Limited Edition (Imported)",
+  "price": {
+    "mrp": 25000,
+    "cost": 10999,
+    "discountPercent": 25
+  },
+  "subcategory": "PS5",
+  "productImage": "https://mx2games.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-07-at-9.14.13-AM-768x768.jpeg",
+  "category": "Controllers",
+  "description": "Product Description This limited edition wireless controller is designed with “FINAL FANTASY XVI” as its motif. The midnight black DualSense wireless controller features a delicate pattern of “crystal” on the\nRestyle your PS5™ gaming setup in a fresh urban aesthetic with Grey Camouflage accessories.*\nHeighten Your Senses™\nThe DualSense wireless controller for PS5 offers immersive haptic feedback2, dynamic adaptive triggers2 and a built-in microphone, all integrated into an iconic design.",
+  "tagline": "Controllers",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T19:20:14.506Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T19:20:14.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bd0a6b43e2aa318750e47"
+  },
+  "productName": "Pdp Electric Carbon Controller For Xbox Series X|s & Pc",
+  "price": {
+    "mrp": 5299,
+    "cost": 5299,
+    "discountPercent": 0
+  },
+  "subcategory": "XBOX",
+  "productImage": "https://mx2games.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-04-at-3.54.30-AM-768x768.jpeg",
+  "category": "Controllers",
+  "description": "Crush the competition and look good doing it with the Xbox Series X|S & PC Electric Carbon Controller! Customize the way you play and enhance your game using the free PDP Control Hub App.",
+  "tagline": "Controllers",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T19:21:10.561Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T19:21:10.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bd239b43e2aa318750e49"
+  },
+  "productName": "Pastel Pink Joy Con Controllers For Nintendo Switch",
+  "price": {
+    "mrp": 10000,
+    "cost": 7499,
+    "discountPercent": 35
+  },
+  "subcategory": "NINTENDO",
+  "productImage": "https://mx2games.com/wp-content/uploads/2024/03/image-Photoroom.png-Photoroom-2024-03-26T133217.426-768x768.png",
+  "category": "Controllers",
+  "description": "Expand your collection with these colorful pastel Joy-Con controllers.\nOne controller or two, vertical or sideways, motion controls or buttons…Joy‑Con and Nintendo Switch give you total gameplay flexibility.\nGames come to life through easy-to-use motion controls and HD rumble—advanced vibration features built into each Joy‑Con.",
+  "tagline": "Controllers",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T19:27:53.034Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T19:27:53.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bd286b43e2aa318750e4b"
+  },
+  "productName": "DualSense Wireless Controller Midnight Black PS5 (Imported)",
+  "price": {
+    "mrp": 7000,
+    "cost": 7000,
+    "discountPercent": 0
+  },
+  "subcategory": "PS5",
+  "productImage": "https://mx2games.com/wp-content/uploads/2021/07/Screenshot_55.png",
+  "category": "Controllers",
+  "description": "Feel physically responsive feedback to your in-game actions with dual actuators which replace traditional rumble motors. In your hands, these dynamic vibrations can simulate the feeling of everything from environments to the recoil of different weapons.\nAdaptive triggers\nExperience varying levels of force and tension as you interact with your in-game gear and environments. From pulling back an increasingly tight bowstring to hitting the brakes on a speeding car, feel physically connected to your on-screen actions.\nBuilt-in microphone and headset jack\nChat with friends online3 using the built-in microphone – or by connecting a headset to the 3.5mm jack. Easily switch voice capture on and off at a moment’s notice with the dedicated mute button.\nCreate button\nCapture and broadcast3 your most epic gaming moments with the create button. Building on the success of the pioneering SHARE button, “create” offers players more ways to produce gaming content and broadcast their adventures live to the world.\nSignature comfort\nTake control with an evolved, two-tone design that combines an iconic, intuitive layout with enhanced sticks and a reimagined light bar.\nFamiliar features\nThe DualSense™ wireless controller retains many DUALSHOCK®4 features, returning for a new generation of play.\nBuilt-in battery\nCharge and play, now via USB Type-C®4.\nIntegrated speaker\nSelect games take on an extra dimension with higher-fidelity1 sound effects bursting from the controller.\nMotion sensor\nBring intuitive motion control to supported games with the built-in accelerometer and gyroscope.",
+  "tagline": "Controllers",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T19:29:10.117Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T19:29:10.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bd31ab43e2aa318750e4f"
+  },
+  "productName": "Msi Claw A1m 052us Handheld Portable Gaming (Imported)",
+  "price": {
+    "mrp": 80000,
+    "cost": 72000,
+    "discountPercent": 10
+  },
+  "subcategory": "Handheld console",
+  "productImage": "https://mx2games.com/wp-content/uploads/2024/03/image-Photoroom.png-Photoroom-35-768x768.png",
+  "category": "Console",
+  "description": "Hall Effect triggers and joysticks built to last with microscopic precision.\nIntel® Core™ Ultra 5-135H 1.2 – 4.6 GHz\nRevolutionary Cooler Boost HyperFlow technology redirects airflow to cool internal components.\nHall Effect triggers and joysticks built to last with microscopic precision.\nBest-in-class 53Whr battery capacity.",
+  "tagline": "console",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T19:31:39.002Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T19:31:39.002Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bd37ab43e2aa318750e51"
+  },
+  "productName": "Clockwork GameShell Kit Yellow (Imported)",
+  "price": {
+    "mrp": 15199,
+    "cost": 15199,
+    "discountPercent": 0
+  },
+  "subcategory": "Handheld console",
+  "productImage": "https://mx2games.com/wp-content/uploads/2024/04/image-Photoroom.png-Photoroom-2024-04-06T105453.131.png",
+  "category": "Console",
+  "description": "New clockworkPi V3.1 (Quad-core Cortex-A7 CPU, WI-FI & Bluetooth on-board,1GB DDR3 memory, Micro HDMI output)\nATmega168pprogrammable Keypad\n2.7 inch TFT RGB@60fps screen\nDual speaker\n1200mAh rechargeable lithium battery\nLightkey module (for shoulder buttons)\n1 front shell + 2 back shells\n32GB MicroSD card\nclockworkpi OS, Linux Kernel 4.1x supported\nAssembly instructions & sticker\nGift Package",
+  "tagline": "console",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T19:33:14.907Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T19:33:14.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bd3bdb43e2aa318750e53"
+  },
+  "productName": "Xbox Series S (Imported)",
+  "price": {
+    "mrp": 29999,
+    "cost": 29999,
+    "discountPercent": 0
+  },
+  "subcategory": "Console",
+  "productImage": "https://toppng.com/uploads/preview/standing-white-xbox-series-s-console-with-controller-116429209023r4jzbulic.png",
+  "category": "Console",
+  "description": "Introducing the Xbox series S, the smallest, sleekest Xbox console ever. Experience the speed and performance of a next-gen all-digital console at an accessible price point\nGo all-digital and enjoy disc-free, next-gen gaming with the smallest Xbox console ever made\nExperience next-gen speed and performance with the Xbox velocity architecture, powered by a custom SSD and integrated software\nPlay thousands of digital games from four generations of Xbox with backward compatibility, including optimized titles at launch\nSeller Warranty – 3 Months.\nImported product.",
+  "tagline": "console",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T19:34:21.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T19:34:21.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bd54fb43e2aa318750e93"
+  },
+  "productName": "AORUS M3",
+  "price": {
+    "mrp": 3500,
+    "cost": 3200,
+    "discountPercent": 5
+  },
+  "subcategory": "Gaming Mouse",
+  "productImage": "https://static.gigabyte.com/StaticFile/Image/Global/e1ec9ddf067cf9c86f44e28cda74111a/Product/21987/png/500",
+  "category": "Mouse",
+  "description": "Real 6400 DPI Optical Engine\n20-million-click Omron Switch\nRGB Fusion 2.0 – synchronize with other AORUS devices\nOn-the-fly DPI Adjustment\nAnti-slip Rubber Grips\nTeflon Mouse Feet",
+  "tagline": "mouse",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T19:41:03.035Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T19:41:03.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bd5e2b43e2aa318750e95"
+  },
+  "productName": " R.A.T. 8+",
+  "price": {
+    "mrp": 20000,
+    "cost": 16000,
+    "discountPercent": 20
+  },
+  "subcategory": "Gaming Mouse",
+  "productImage": "https://www.madcatz.com/FileUploads/ProductPhoto/11625b7b-6ead-4ce4-8bf9-22e5d6a2e6bd.gif",
+  "category": "Mouse",
+  "description": "The R.A.T.8+ provides gamers with the edge they need to win. Designed for the professional gamer, the R.A.T.8+ features a 16,000 DPI sensor, ensuring incredible accuracy when tracking your prey and providing perfect balance and instantaneous response when deep in battle. R.A.T.8+ comes fitted with high-durability switches, providing a life expectancy in excess of 50 million clicks, ensuring that your gaming mouse never lets you down in the heat of the battle!",
+  "tagline": "mouse",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T19:43:30.775Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T19:43:30.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bd64ab43e2aa318750e97"
+  },
+  "productName": "700M EVO",
+  "price": {
+    "mrp": 15000,
+    "cost": 10000,
+    "discountPercent": 12
+  },
+  "subcategory": "Gaming Mouse",
+  "productImage": "https://www.tanotis.com/cdn/shop/products/1651792562_IMG_1749009_1024x.jpg?v=1676504514",
+  "category": "Mouse",
+  "description": "16000 DPI Optical Gaming Mouse\nThe final evolution of the gaming mouse world’s alpha predator. Taking all the customization, ergonomics and extended functionality that made 700M a winner, 700M EVO brings in a robust new optical sensor (Pixart PMW3389), further ergonomic enhancements and a new look to rule the online arenas.",
+  "tagline": "mouse",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T19:45:14.270Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T19:45:14.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bd7c9b43e2aa318750eb4"
+  },
+  "productName": "R.A.T. 6+",
+  "price": {
+    "mrp": 6000,
+    "cost": 5000,
+    "discountPercent": 18
+  },
+  "subcategory": "Gaming Mouse",
+  "productImage": "https://m.media-amazon.com/images/I/71oMcv8aGfL._AC_UF1000,1000_QL80_DpWeblab_.jpg",
+  "category": "Mouse",
+  "description": "The R.A.T. 6+ is built with an aluminum structure, featuring an exceptional gaming-grade optical sensor, adjustable palm rest, and 11 programmable buttons. The R.A.T. 6+ delivers astonishing response times and gives you the power and accuracy you need to deliver a crucial blow to the competition.",
+  "tagline": "mouse",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-08T19:51:37.153Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T19:51:37.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641010916328dc692bf9c53"
+  },
+  "productName": " Marvel's Spider-Man 2",
+  "price": {
+    "mrp": 6000,
+    "cost": 4999,
+    "discountPercent": 14
+  },
+  "subcategory": "RPG",
+  "productImage": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7b75d8ed9271516546560d219ad0b22ee0a263b4537bd8.png",
+  "category": "Games",
+  "description": "Spider-Men, Peter Parker and Miles Morales, return for an exciting new adventure in the critically acclaimed Marvel’s Spider-Man franchise for PS5.\n\nSwing, jump and utilize the new Web Wings to travel across Marvel’s New York, quickly switching between Peter Parker and Miles Morales to experience different stories and epic new powers, as the iconic villain Venom threatens to destroy their lives, their city and the ones they love.",
+  "tagline": "offer",
+  "quantity": 1,
+  "seller": {
+    "$oid": "663b6602338f2edda5cb3ef9"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-05-12T17:48:57.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-12T17:48:57.710Z"
+  },
+  "__v": 0
+}]
