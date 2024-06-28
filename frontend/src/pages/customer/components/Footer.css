@@ -1,0 +1,58 @@
+.footer {
+  position: static;
+  background-color: #222;
+  color: #fff;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.copyright {
+  margin-bottom: 1rem;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.social-links {
+  display: flex;
+}
+
+.social-icon {
+  margin: 0 0.5rem;
+  color: #fff;
+  background-color: #333;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s ease; /* For hover effect */
+}
+
+.social-icon:hover {
+  background-color: #555; 
+}
+
+/* ... previous styles */
+

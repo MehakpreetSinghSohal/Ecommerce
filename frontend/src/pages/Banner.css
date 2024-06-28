@@ -1,0 +1,22 @@
+.arrow {
+  position: absolute; /* Change to absolute positioning */
+  top: 50%;
+  transform: translateY(-50%); 
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent */
+  color: white;
+  width: 40px;
+  height: 40px;
+  display: flex; /* Center the icon */
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;  
+  cursor: pointer;
+}
+
+.arrow-next {
+  right: 20px;
+}
+
+.arrow-prev {
+  left: 20px;
+}
